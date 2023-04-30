@@ -1,0 +1,48 @@
+https://www.youtube.com/watch?v=5s4XuHR_rXc
+https://www.youtube.com/watch?v=2SXno61FX2k-: project
+
+https://www.wallpaperflare.com/neon-4k-hd-best-for-desktop-wallpaper-tzqva/download
+icon link:-https://boxicons.com/?query=lock
+
+--------------------------------------------------------------------------------------------------------------------------
+
+import for icons:-
+           <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>// link to be pasted befor                                       using icons 
+--------------------------------------------------------------------------------------------------------------------------
+
+examples program:-https://www.simplilearn.com/tutorials/javascript-tutorial/javascript-examples
+
+to refer:-https://www.w3schools.com/js/js_datatypes.asp
+          https://javascript.info/types	
+          https://www.javatpoint.com/javascript-data-types	
+          https://www.programiz.com/javascript/ES6
+
+
+site to write javascript:-
+https://playcode.io/learn
+https://www.programiz.com/javascript/online-compiler/
+https://geekflare.com/online-compiler/javascript
+https://jsfiddle.net/
+
+#############################   https://roadmap.sh/    ###############################################################
+                               ----------------------
+
+https://www.goodhousekeeping.com/life/parenting/g28581033/best-jokes-for-kids/
+
+link to line javascript:- https://github.com/Asabeneh/30-Days-Of-JavaScript
+                          https://javascript30.com/
+
+site to run code:-https://onecompiler.com/html
+                  https://playcode.io/new
+
+DOM manuplation:-https://www.youtube.com/watch?v=wiozYyXQEVk&list=PLDyQo7g0_nsX8_gZAB8KD1lL4j4halQBJ&index=9
+
+images icon:-https://icons8.com/icons/set/svg
+
+javascript:-https://hackr.io/blog/html-cheat-sheet
+            https://developer.mozilla.org/en-US/docs/Learn/HTML/Cheatsheet
+            https://www.codeguage.com/courses/js/html-dom-introduction
+
+Must DO this************
+IMP for javascript:-https://roadmap.sh/frontend
+                    https://roadmap.sh/javascript
